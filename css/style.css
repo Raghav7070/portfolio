@@ -19,6 +19,22 @@
 
 }
 
+.project_links a:link {
+    color: hotpink;
+  }
+  
+.project_links a:visited {
+    color: hotpink;
+  }
+
+.project_links a:hover {
+    color: maroon;
+  }
+  
+.project_links a:active {
+    color: blue;
+  }
+
 
 *{
     margin: 0;
